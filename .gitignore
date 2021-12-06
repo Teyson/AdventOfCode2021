@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.AoC2.iml
+/contentModel.xml
+/modules.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Ignore only specific Rider files/directories
+# For syntax see: https://stackoverflow.com/a/14422549/12124
+/.idea/*
+!/.idea/.idea.*
+/.idea/.idea.*/*
+!/.idea/.idea.*/.idea
+/.idea/.idea.*/.idea/*
+!/.idea/.idea.*/.idea/runConfigurations
