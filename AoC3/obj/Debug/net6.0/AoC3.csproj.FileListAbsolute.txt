@@ -1,0 +1,15 @@
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\bin\Debug\net6.0\AoC3.exe
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\bin\Debug\net6.0\AoC3.deps.json
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\bin\Debug\net6.0\AoC3.runtimeconfig.json
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\bin\Debug\net6.0\AoC3.dll
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\bin\Debug\net6.0\ref\AoC3.dll
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\bin\Debug\net6.0\AoC3.pdb
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\AoC3.csproj.AssemblyReference.cache
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\AoC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\AoC3.AssemblyInfoInputs.cache
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\AoC3.AssemblyInfo.cs
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\AoC3.csproj.CoreCompileInputs.cache
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\AoC3.dll
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\ref\AoC3.dll
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\AoC3.pdb
+C:\Users\teis\OneDrive\Dokumenter\Programmering\AdventOfCode2021\AoC3\obj\Debug\net6.0\AoC3.genruntimeconfig.cache
